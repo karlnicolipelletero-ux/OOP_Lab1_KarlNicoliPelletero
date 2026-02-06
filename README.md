@@ -8,7 +8,7 @@ This is the activity of Karl Nicoli S. Pelletero, to be submitted by Engr. Jamie
 ## 📌 Project Overview
 This project is a modular Core Math Library designed using **Object-Oriented Programming (OOP)** principles. [cite_start]It demonstrates the use of **Inheritance**, **Encapsulation**, and **Polymorphism** to organize mathematical operations into a logical class hierarchy[cite: 5, 12, 13].
 
-## 🏗️ Class Hierarchy
+## Class Hierarchy
 
 ### Level 1: The Grandparent (Base Class)
 **`MathOperation`**
