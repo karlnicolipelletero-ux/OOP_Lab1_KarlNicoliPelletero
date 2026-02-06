@@ -12,7 +12,7 @@ This project is a modular Core Math Library designed using **Object-Oriented Pro
     *Abstraction:** Defines the abstract `calculate()` method, forcing every child class to implement its own logic
 
 ### Level 2: The Parents (Category Classes)
-[cite_start]These classes group operations based on their specific input requirements
+These classes group operations based on their specific input requirements
 
 1.  **`ArithmeticOperation`** (Extends `MathOperation`)
     *Role:** Manages operations that require **two numerical inputs** (e.g., addition, division)
