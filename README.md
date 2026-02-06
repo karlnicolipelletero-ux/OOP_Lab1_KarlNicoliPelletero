@@ -11,7 +11,6 @@ This project is a modular Core Math Library designed using **Object-Oriented Pro
     **Encapsulation:** Protects the `result` variable (private) to ensure data integrity
 
 ### Level 2: The Parents (Category Classes)
-These classes group operations based on their specific input requirements
 
 1.  **`ArithmeticOperation`** (Extends `MathOperation`)
     **Role:** Manages operations that require **two numerical inputs** (e.g., addition, division)
@@ -26,7 +25,6 @@ These classes group operations based on their specific input requirements
    *Responsibility:** Handles the storage and retrieval of the single `number` input
 
 ### Level 3: The Children (Concrete Tools)
-These classes contain the specific formulas and logic for each operation[cite: 32].
 
 * **Arithmetic:**
     * `Addition`, `Subtraction`, `Multiplication`.
