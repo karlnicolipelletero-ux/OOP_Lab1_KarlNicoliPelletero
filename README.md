@@ -1,8 +1,3 @@
-# OOP_Lab1_KarlNicoliPelletero
-
-This is the activity of Karl Nicoli S. Pelletero, to be submitted by Engr. Jamie Rosal.
-
-
 # Core Math Library (OOP Implementation)
 
 ## 📌 Project Overview
