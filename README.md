@@ -8,7 +8,7 @@ This project is a modular Core Math Library designed using **Object-Oriented Pro
 ### Level 1: The Grandparent (Base Class)
 **`MathOperation`**
 * **Key Responsibilities:**
-    *Encapsulation:** Protects the `result` variable (private) to ensure data integrity
+    **Encapsulation:** Protects the `result` variable (private) to ensure data integrity
     *Abstraction:** Defines the abstract `calculate()` method, forcing every child class to implement its own logic
 
 ### Level 2: The Parents (Category Classes)
