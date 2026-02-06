@@ -35,5 +35,5 @@ This project is a modular Core Math Library designed using **Object-Oriented Pro
 * **Number Analysis:**
     `PrimeCheck`: Determines if a number is prime using an optimized loop
     `Factorial`: Calculates the factorial
-    `EvenOddCheck`: Uses the modulo operator (`%`) to determine parity
+    `EvenOddCheck`: Uses the modulo operator (`%`) to determine uniformity
 
