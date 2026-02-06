@@ -1,7 +1,7 @@
 # Core Math Library (OOP Implementation)
 
 ## 📌 Project Overview
-This project is a modular Core Math Library designed using **Object-Oriented Programming (OOP)** principles. [cite_start]It demonstrates the use of **Inheritance**, **Encapsulation**, and **Polymorphism** to organize mathematical operations into a logical class hierarchy[cite: 5, 12, 13].
+This project is a modular Core Math Library designed using **Object-Oriented Programming (OOP)** principles. It demonstrates the use of **Inheritance**, **Encapsulation**, and **Polymorphism** to organize mathematical operations into a logical class hierarchy.
 
 ## Class Hierarchy
 
