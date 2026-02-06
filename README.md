@@ -9,18 +9,17 @@ This project is a modular Core Math Library designed using **Object-Oriented Pro
 **`MathOperation`**
 * **Key Responsibilities:**
     **Encapsulation:** Protects the `result` variable (private) to ensure data integrity
-    *Abstraction:** Defines the abstract `calculate()` method, forcing every child class to implement its own logic
 
 ### Level 2: The Parents (Category Classes)
 These classes group operations based on their specific input requirements
 
 1.  **`ArithmeticOperation`** (Extends `MathOperation`)
-    *Role:** Manages operations that require **two numerical inputs** (e.g., addition, division)
-    *Responsibility:** Centralizes the storage of `operand1` and `operand2` so child classes don't duplicate code
+    **Role:** Manages operations that require **two numerical inputs** (e.g., addition, division)
+    **Responsibility:** Centralizes the storage of `operand1` and `operand2` so child classes don't duplicate code
 
 2.  **`GeometryOperation`** (Extends `MathOperation`)
-    *Role:** Manages shape-based calculations[cite: 47].
-    *Responsibility:** Provides validation logic (e.g., `isValid()`) to ensure shape dimensions like radius or length are never negative
+    **Role:** Manages shape-based calculations[cite: 47].
+    **Responsibility:** Provides validation logic (e.g., `isValid()`) to ensure shape dimensions like radius or length are never negative
 
 3.  **`NumberAnalysis`** (Extends `MathOperation`)
    *Role:** Manages operations that analyze a **single integer**
