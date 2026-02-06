@@ -17,7 +17,7 @@ This project is a modular Core Math Library designed using **Object-Oriented Pro
     **Responsibility:** Centralizes the storage of `operand1` and `operand2` so child classes don't duplicate code
 
 2.  **`GeometryOperation`** (Extends `MathOperation`)
-    **Role:** Manages shape-based calculations[cite: 47].
+    **Role:** Manages shape-based calculations.
     **Responsibility:** Provides validation logic (e.g., `isValid()`) to ensure shape dimensions like radius or length are never negative
 
 3.  **`NumberAnalysis`** (Extends `MathOperation`)
